@@ -1,9 +1,9 @@
 # Angular 
 AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. 
 
-# AngularDefaultPage
+# AngularTextBox
 
-This is the normal page which you open up when u try to create an angular page. Design of the page may vary according to the Version.
+This contains a simple textbox which takes input from the user and simultaneously will be printing on the screen.
 
 # Basic Requirments
 
